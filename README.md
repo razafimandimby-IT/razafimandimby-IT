@@ -13,11 +13,11 @@
 
 ---
 
-## 🚀 À propos de moi
+##  À propos de moi
 
 > **Responsable Informatique** avec plus de 8 ans d'expérience en gouvernance des systèmes d'information, administration d'infrastructures (Windows/Linux, virtualisation), **cybersécurité opérationnelle** et **automatisation IT**. Passionné par l'open source, la transformation numérique et le mentorat technique.
 
-📌 **Objectif** : Piloter la stratégie IT d'organisations en croissance, en alliant excellence opérationnelle, sécurité des systèmes et innovation technologique.
+ **Objectif** : Piloter la stratégie IT d'organisations en croissance, en alliant excellence opérationnelle, sécurité des systèmes et innovation technologique.
 
 - 🔭 Actuellement : **Responsable Informatique & Logistique** chez **Dessineo**
 - 🌱 En cours : ServiceNow ITSM, ITIL 4 Foundation, Azure Fundamentals AZ-900
