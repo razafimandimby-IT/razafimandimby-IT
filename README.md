@@ -1,6 +1,6 @@
 # Louis Denis RAZAFIMANDIMBY
 
-**Responsable Informatique** · IT Manager · Infrastructure & Cybersécurité
+**Responsable Informatique** · IT Manager · Développement ERP & Automation
 
 [l.denis.razafimandimby@gmail.com](mailto:l.denis.razafimandimby@gmail.com) · [Wellfound](https://wellfound.com/u/denis-razafimandimby) · [LinkedIn](https://www.linkedin.com/in/louis-denis-razafimandimby-488610227/)
 
@@ -8,31 +8,63 @@
 
 ### A propos
 
-Responsable Informatique avec plus de 8 ans d'experience en gouvernance des systemes d'information, administration d'infrastructures (Windows/Linux, virtualisation), cybersecurite operationnelle et pilotage de projets ERP. J'accompagne la transformation numerique d'organisations en croissance en structurant les processus IT, en automatisant les operations et en encadrant les equipes techniques.
+Responsable Informatique avec une double competence : gouvernance des systemes d'information ET developpement d'applications metier.
 
-Actuellement chez Dessineo. En cours : ServiceNow ITSM, ITIL 4 Foundation, Azure AZ-900.
+Je pilote la strategie IT d'organisations en croissance (infrastructure, securite, equipes) et je conçois egalement les ERP et outils qui digitalisent leurs processus. 8 ans d'experience a structurer des directions IT tout en livrant du code en production.
+
+Actuellement chez Dessineo, en charge de l'infrastructure, de la cybersecurite ET du pilotage/developpement de l'ERP interne. En cours : ServiceNow ITSM, ITIL 4, Azure AZ-900.
 
 ---
 
 ### Competences
 
-**Gouvernance & management**
-ITSM, ITIL, gestion de projets, management d'equipes, pilotage de prestataires, conduite du changement
+**Developpement ERP & applications**
+Laravel · PHP · MySQL / MariaDB · API REST · Git · Docker · EspoCRM · OCS Inventory · Deploiement d'outils
 
-**Systemes & virtualisation**
-Windows Server 2016/2019/2022 · Linux (Debian, Ubuntu) · Active Directory · GPO · DNS · DHCP · Hyper-V · Proxmox VE · Docker
+**Gouvernance & management IT**
+ITSM · ITIL · Gestion de projets · Management d'equipes · Pilotage de prestataires · Conduite du changement
+
+**Infrastructure & systemes**
+Windows Server · Linux (Debian, Ubuntu) · Active Directory · GPO · DNS · DHCP · Hyper-V · Proxmox VE · Docker
 
 **Cloud & collaboration**
 Microsoft 365 (Exchange Online, Teams, SharePoint, OneDrive) · Google Workspace
 
 **Securite & supervision**
-BitLocker · Microsoft LAPS · MFA · Wazuh · pfSense · Zabbix · Grafana · Prometheus · Nagios · PRA/PCA
+BitLocker · LAPS · MFA · Wazuh · pfSense · Zabbix · Grafana · Prometheus · Nagios · PRA/PCA
 
-**Automatisation & developpement**
-PowerShell · Python · Bash · SQL (MySQL, MariaDB, PostgreSQL) · Git · API REST
+**Automatisation**
+PowerShell · Python · Bash · SQL
 
-**ITSM & ERP**
-GLPI · OCS Inventory · OTRS · Jira · Confluence · ServiceNow
+---
+
+### Projet phare : ERP interne multi-domaines
+
+De la conception au deploiement : pilotage fonctionnel et participation au developpement d'un ERP interne couvrant l'ensemble des processus de l'entreprise.
+
+**Modules fonctionnels**
+
+| Module | Fonctionnalites |
+|--------|-----------------|
+| Ressources Humaines | Gestion des employes, contrats, conges, absences, organigramme, pointage biometrique, calcul des heures (supplementaires, retards), export paie |
+| Gestion documentaire | Archivage, GED, versionning, circuit de validation documentaire |
+| Tickets IT | Helpdesk, incidents, demandes, suivi SLA, base de connaissances |
+| Parc informatique | Inventaire, licences, garanties, affectation materiel, historique |
+| Stocks | Entrees/sorties, inventaire, mouvements, alertes de stock |
+| Logistique | Achats, fournisseurs, receptions, consommables, suivi des equipements |
+| Signature electronique | Validation des demandes, circuit d'approbation, historique, tracabilite |
+| Planning | Equipes, affectation des ressources, disponibilites |
+
+**Securite integree**
+Gestion des roles et permissions · Journalisation des actions (audit trail) · Sauvegardes automatisees · Authentification securisee · Separation des droits
+
+**Digitalisation**
+Transformation des processus papier en workflows numeriques. Automatisation pour limiter les erreurs, accelerer les validations, ameliorer la tracabilite et reduire les doubles saisies.
+
+**Reporting & tableaux de bord**
+Indicateurs pour la Direction Generale, RH, Informatique, Logistique et Managers : presence, productivite, etat des stocks, incidents IT, disponibilite des equipements, consommation, performance des equipes.
+
+**Technologies** : Laravel · PHP · MySQL/MariaDB · API REST · Docker · Git
 
 ---
 
@@ -41,40 +73,39 @@ GLPI · OCS Inventory · OTRS · Jira · Confluence · ServiceNow
 **Responsable Informatique & Logistique**
 *Dessineo — Antananarivo* | Aout 2025 - Aujourd'hui
 
-Gouvernance SI : definition de la feuille de route, KPI de qualite de service, procedures d'exploitation. Administration des serveurs Windows/Linux, Active Directory, virtualisation et sauvegardes. Pilotage de Microsoft 365 et Google Workspace. Deploiement de la politique de securite (BitLocker, LAPS, MFA). Conception d'une architecture de supervision Zabbix/Grafana/Prometheus/Wazuh. Pilotage fonctionnel d'un ERP interne multi-domaines. Encadrement des equipes techniques et coordination des prestataires.
+Gouvernance SI : feuille de route, KPI, procedures d'exploitation.
+Infrastructure : serveurs Windows/Linux, Active Directory, virtualisation, sauvegardes, Microsoft 365, Google Workspace.
+Cybersecurite : BitLocker, LAPS, MFA, supervision Zabbix/Grafana/Prometheus/Wazuh.
+**ERP : pilotage fonctionnel et developpement de l'ERP interne multi-domaines (RH, GED, tickets IT, parc, stocks, logistique, signature electronique, planning) — analyse des besoins, conception, developpement, deploiement.**
+Encadrement des equipes techniques et coordination des prestataires.
 
 **Datajet — Antananarivo** | Juin 2018 - Aout 2025
-
 *Consultant IT Support Automation Lead (2023-2025)*
-Encadrement d'une equipe IT, suivi des indicateurs de service (+40% de visibilite SLA via tableaux de bord Grafana/Prometheus). Developpement de scripts PowerShell/Python, reduisant le MTTR de 35%. Administration du parc, migration Exchange vers Exchange Online/Teams/SharePoint. Standardisation des procedures selon les bonnes pratiques ITIL. Taux de conformite SLA superieur a 95%.
+
+Encadrement d'une equipe IT, indicateurs de service (+40% de visibilite SLA via Grafana/Prometheus). Developpement de scripts PowerShell/Python (MTTR -35%). Migration Exchange vers Exchange Online/Teams/SharePoint. Standardisation ITIL. Taux de conformite SLA > 95%.
 
 *Team Lead Support Technique (2022-2023)*
-Supervision du cycle de vie des equipements, administration Exchange On-Premise, gestion des acces. Mise en place d'une solution de sauvegarde hybride (Veeam, NAS local + AWS S3) reduisant de 40% le temps d'indisponibilite et de 30% les couts de stockage. Migration de SpiceWorks vers GLPI, supervision via Prometheus/Grafana.
+Cycle de vie des equipements, Exchange On-Premise, sauvegarde hybride Veeam + AWS S3 (-40% downtime, -30% couts). Migration SpiceWorks vers GLPI.
 
 *Technicien Support & Maintenance (2018-2022)*
-Support utilisateurs N1/N2, administration OTRS, maintenance des postes et serveurs, supervision reseau via Nagios, inventaire materiel avec OCS Inventory.
+Support N1/N2, OTRS, maintenance parc, supervision Nagios, inventaire OCS Inventory.
 
-**Experiences anterieures**
-Stagiaire technicien informatique chez Accesbanque. Gerant Point Cybercafe (gestion du parc IT, 50+ utilisateurs). Consultant gestion de stocks DHL International Madagascar (developpement application PHP scan codes-barres).
+**Anterieur**
+Accesbanque (technicien). Point Cybercafe (gerant, 50+ utilisateurs). DHL International Madagascar (application PHP scan codes-barres pour la tracabilite logistique).
 
 ---
 
-### Projets
+### Projets GitHub
 
-**Securite & Hardening**
-[**security-hardening-toolkit**](https://github.com/razafimandimby-IT/security-hardening-toolkit) — Automatisation du hardening et audit de securite pour serveurs Windows et Linux. CIS benchmarks, remediation automatique, rapports de conformite HTML.
+[**security-hardening-toolkit**](https://github.com/razafimandimby-IT/security-hardening-toolkit) — Hardening et audit de securite Windows/Linux (CIS benchmarks, reporting HTML, remediation).
 
-**Infrastructure as Code**
-[**ansible-infra-automation**](https://github.com/razafimandimby-IT/ansible-infra-automation) — Playbooks Ansible pour le deploiement d'infrastructure enterprise : AD, serveurs web, bases de donnees, monitoring, securisation.
+[**ansible-infra-automation**](https://github.com/razafimandimby-IT/ansible-infra-automation) — Infrastructure as Code (Ansible) pour deploiement AD, serveurs, monitoring, securisation.
 
-**Supervision**
-[**infra-monitoring**](https://github.com/razafimandimby-IT/infra-monitoring) — Stack de supervision complete (Zabbix, Prometheus, Grafana, Wazuh) deployee via Docker Compose.
+[**infra-monitoring**](https://github.com/razafimandimby-IT/infra-monitoring) — Stack Zabbix, Prometheus, Grafana, Wazuh en Docker Compose.
 
-**Automatisation**
-[**powershell-toolkit**](https://github.com/razafimandimby-IT/powershell-toolkit) — Scripts PowerShell pour l'automatisation IT : inventaire AD, rapports systeme, standardisation d'environnement Windows.
+[**powershell-toolkit**](https://github.com/razafimandimby-IT/powershell-toolkit) — Scripts PowerShell : inventaire AD, reporting, standardisation Windows.
 
-**Administration Linux**
-[**dotfiles-linux**](https://github.com/razafimandimby-IT/dotfiles-linux) — Configuration Linux, alias Bash, scripts d'administration systeme et d'automatisation.
+[**dotfiles-linux**](https://github.com/razafimandimby-IT/dotfiles-linux) — Configuration Linux, alias Bash, scripts d'administration.
 
 ---
 
