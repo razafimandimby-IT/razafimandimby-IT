@@ -1,4 +1,4 @@
-# Louis Denis RAZAFIMANDIMBY
+# Denis RAZAFIMANDIMBY
 
 **Responsable Informatique** · IT Manager · Infrastructure & Cybersécurité
 
@@ -55,16 +55,8 @@ Supervision du cycle de vie des équipements, administration Exchange On-Premise
 Support utilisateurs N1/N2, administration OTRS, maintenance des postes et serveurs, supervision réseau via Nagios, inventaire matériel avec OCS Inventory.
 
 **Expériences antérieures**
-Stagiaire technicien informatique chez Accesbanque. Gérant Point Cybercafé (gestion du parc IT, 50+ utilisateurs). Consultant gestion de stocks DHL International Madagascar (développement application PHP scan codes-barres).
+ Gérant Point Cybercafé (gestion du parc IT, 50+ utilisateurs). Consultant gestion de stocks DHL International Madagascar (développement application PHP scan codes-barres).
 
----
-
-### Formation
-
-**Licence Informatique de Gestion** — ISPM, Antananarivo (2009-2012)
-Génie logiciel & Intelligence Artificielle
-
-**Baccalauréat** — Lycée Saint Jean Bosco (2006-2009)
 
 ---
 
