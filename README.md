@@ -1,7 +1,7 @@
 <div align="center">
   <img src="h" width="160" height="160" style="border-radius:50%; border: 3px solid #2b9348" alt="Louis Denis RAZAFIMANDIMBY"/>
   
-  # 👋 Bonjour, je suis Louis Denis RAZAFIMANDIMBY
+  # 👋 Bonjour, je suis Denis RAZAFIMANDIMBY
   
   **`Responsable Informatique | IT Manager | Infrastructure & Cybersécurité`**
   
