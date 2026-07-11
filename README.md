@@ -1,14 +1,16 @@
-# Louis Denis RAZAFIMANDIMBY
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frazafimandimby-IT&countColor=%232b9348&style=flat-square)](https://github.com/razafimandimby-IT)
 
-**Responsable Informatique** · IT Manager · Développement ERP & Automation
+# Denis Razafimandimby
 
-[l.denis.razafimandimby@gmail.com](mailto:l.denis.razafimandimby@gmail.com) · [Wellfound](https://wellfound.com/u/denis-razafimandimby) · [LinkedIn](https://www.linkedin.com/in/louis-denis-razafimandimby-488610227/)
+**IT Manager** · Infrastructure & Cybersecurity · ITSM/ITIL · Automation & ERP
+
+[l.denis.razafimandimby@gmail.com](mailto:l.denis.razafimandimby@gmail.com) · [Wellfound](https://wellfound.com/u/denis-razafimandimby) · [LinkedIn](https://www.linkedin.com/in/louis-denis-razafimandimby-488610227/) · [CV en ligne](https://razafimandimby-it.github.io/cv)
 
 ---
 
 ### A propos
 
-Responsable Informatique avec une double competence : gouvernance des systemes d'information ET developpement d'applications metier.
+IT Manager avec une double competence : gouvernance des systemes d'information ET developpement d'applications metier.
 
 Je pilote la strategie IT d'organisations en croissance (infrastructure, securite, equipes) et je conçois egalement les ERP et outils qui digitalisent leurs processus. 8 ans d'experience a structurer des directions IT tout en livrant du code en production.
 
@@ -70,7 +72,7 @@ Indicateurs pour la Direction Generale, RH, Informatique, Logistique et Managers
 
 ### Experience
 
-**Responsable Informatique & Logistique**
+**IT Manager & Logistique**
 *Dessineo — Antananarivo* | Aout 2025 - Aujourd'hui
 
 Gouvernance SI : feuille de route, KPI, procedures d'exploitation.
@@ -110,3 +112,7 @@ Accesbanque (technicien). Point Cybercafe (gerant, 50+ utilisateurs). DHL Intern
 ---
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=razafimandimby-IT&show_icons=true&theme=graywhite&hide_title=true)](https://github.com/razafimandimby-IT)
+
+---
+
+<sub>Profile visits tracked above</sub>
