@@ -127,15 +127,19 @@
 
 ---
 
-## 📂 Projets & Réalisations
+## 📂 Projets
 
-> *En cours de construction — Des dépôts de démonstration arrivent bientôt pour illustrer mon travail en automation, monitoring et infrastructure.*
-
-| Projet | Description | Statut |
-|--------|-------------|--------|
-| 🔧 PowerShell Toolkit | Scripts d'automatisation AD, inventaire, rapports | *À venir* |
-| 📊 Infra Monitoring | Stack Zabbix/Grafana/Prometheus en Docker Compose | *À venir* |
-| 🐧 Linux Dotfiles | Configuration Linux, Bash, automation | *À venir* |
+<p align="center">
+  <a href="https://github.com/razafimandimby-IT/powershell-toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=razafimandimby-IT&repo=powershell-toolkit&theme=vue-dark&border_color=2b9348" alt="PowerShell Toolkit" />
+  </a>
+  <a href="https://github.com/razafimandimby-IT/infra-monitoring">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=razafimandimby-IT&repo=infra-monitoring&theme=vue-dark&border_color=2b9348" alt="Infra Monitoring" />
+  </a>
+  <a href="https://github.com/razafimandimby-IT/dotfiles-linux">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=razafimandimby-IT&repo=dotfiles-linux&theme=vue-dark&border_color=2b9348" alt="Dotfiles Linux" />
+  </a>
+</p>
 
 ---
 
