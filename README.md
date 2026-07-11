@@ -93,7 +93,7 @@ Cycle de vie des equipements, Exchange On-Premise, sauvegarde hybride Veeam + AW
 Support N1/N2, OTRS, maintenance parc, supervision Nagios, inventaire OCS Inventory.
 
 **Anterieur**
-Accesbanque (technicien). Point Cybercafe (gerant, 50+ utilisateurs). DHL International Madagascar (application PHP scan codes-barres pour la tracabilite logistique).
+Point Cybercafe (gerant, 50+ utilisateurs). DHL International Madagascar (application PHP scan codes-barres pour la tracabilite logistique).
 
 ---
 
