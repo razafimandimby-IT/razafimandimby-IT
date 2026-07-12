@@ -114,8 +114,8 @@ De la conception au déploiement : pilotage fonctionnel et participation au dév
 
 | Type | Détail |
 |------|--------|
-| 🎓 **Master** | Génie Logiciel & Systèmes d'Information — Université d'Antananarivo (2016-2018) |
-| 📖 **Licence** | Informatique de Gestion — ISPM (2012) |
+
+| 📖 **📖 Formation** | Informatique de Gestion, Génie Logiciel et Intelligence Artificielle — ISPM (2012)|
 | 🏅 **En cours** | ServiceNow ITSM & Flow Designer, ITIL 4 Foundation, Azure AZ-900 |
 | 🔄 **Formation continue** | Docker, Python, Cybersécurité open source, Zammad |
 
