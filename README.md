@@ -1,118 +1,150 @@
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frazafimandimby-IT&countColor=%232b9348&style=flat-square)](https://github.com/razafimandimby-IT)
+<div align="center">
 
-# Denis Razafimandimby
+# 👋 Louis Denis RAZAFIMANDIMBY
 
-**IT Manager** · Infrastructure & Cybersecurity · ITSM/ITIL · Automation & ERP
+**`IT Manager | Infrastructure & Cybersecurity | ITSM/ITIL | Automation & ERP`**
 
-[l.denis.razafimandimby@gmail.com](mailto:l.denis.razafimandimby@gmail.com) · [Wellfound](https://wellfound.com/u/denis-razafimandimby) · [LinkedIn](https://www.linkedin.com/in/louis-denis-razafimandimby-488610227/) · [CV en ligne](https://razafimandimby-it.github.io/cv)
-
----
-
-### A propos
-
-IT Manager avec une double competence : gouvernance des systemes d'information ET developpement d'applications metier.
-
-Je pilote la strategie IT d'organisations en croissance (infrastructure, securite, equipes) et je conçois egalement les ERP et outils qui digitalisent leurs processus. 8 ans d'experience a structurer des directions IT tout en livrant du code en production.
-
-Actuellement chez Dessineo, en charge de l'infrastructure, de la cybersecurite ET du pilotage/developpement de l'ERP interne. En cours : ServiceNow ITSM, ITIL 4, Azure AZ-900.
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frazafimandimby-IT&countColor=%232b9348&style=flat-square&label=Visiteurs)](https://github.com/razafimandimby-IT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-denis-razafimandimby-488610227/)
+[![Wellfound](https://img.shields.io/badge/Wellfound-000?style=flat-square&logo=angellist&logoColor=white)](https://wellfound.com/u/denis-razafimandimby)
+[![CV en ligne](https://img.shields.io/badge/CV-En%20ligne-2b9348?style=flat-square&logo=githubpages&logoColor=white)](https://razafimandimby-it.github.io/cv/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:l.denis.razafimandimby@gmail.com)
 
 ---
 
-### Competences
-
-**Developpement ERP & applications**
-Laravel · PHP · MySQL / MariaDB · API REST · Git · Docker · EspoCRM · OCS Inventory · Deploiement d'outils
-
-**Gouvernance & management IT**
-ITSM · ITIL · Gestion de projets · Management d'equipes · Pilotage de prestataires · Conduite du changement
-
-**Infrastructure & systemes**
-Windows Server · Linux (Debian, Ubuntu) · Active Directory · GPO · DNS · DHCP · Hyper-V · Proxmox VE · Docker
-
-**Cloud & collaboration**
-Microsoft 365 (Exchange Online, Teams, SharePoint, OneDrive) · Google Workspace
-
-**Securite & supervision**
-BitLocker · LAPS · MFA · Wazuh · pfSense · Zabbix · Grafana · Prometheus · Nagios · PRA/PCA
-
-**Automatisation**
-PowerShell · Python · Bash · SQL
+<img src="https://github-readme-stats.vercel.app/api?username=razafimandimby-IT&show_icons=true&theme=graywhite&hide_title=true&border_radius=8&count_private=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razafimandimby-IT&layout=compact&theme=graywhite&border_radius=8&hide_title=true&langs_count=6" height="170" alt="Top Languages"/>
 
 ---
 
-### Projet phare : ERP interne multi-domaines
+</div>
 
-De la conception au deploiement : pilotage fonctionnel et participation au developpement d'un ERP interne couvrant l'ensemble des processus de l'entreprise.
+## 👨‍💻 À propos
 
-**Modules fonctionnels**
+Responsable Informatique avec une **double compétence** : gouvernance des systèmes d'information **ET** développement d'applications métier.
 
-| Module | Fonctionnalites |
-|--------|-----------------|
-| Ressources Humaines | Gestion des employes, contrats, conges, absences, organigramme, pointage biometrique, calcul des heures (supplementaires, retards), export paie |
-| Gestion documentaire | Archivage, GED, versionning, circuit de validation documentaire |
-| Tickets IT | Helpdesk, incidents, demandes, suivi SLA, base de connaissances |
-| Parc informatique | Inventaire, licences, garanties, affectation materiel, historique |
-| Stocks | Entrees/sorties, inventaire, mouvements, alertes de stock |
-| Logistique | Achats, fournisseurs, receptions, consommables, suivi des equipements |
-| Signature electronique | Validation des demandes, circuit d'approbation, historique, tracabilite |
-| Planning | Equipes, affectation des ressources, disponibilites |
+Je pilote la stratégie IT d'organisations en croissance (infrastructure, sécurité, équipes) et je conçois également les ERP et outils qui digitalisent leurs processus. **8 ans d'expérience** à structurer des directions IT tout en livrant du code en production.
 
-**Securite integree**
-Gestion des roles et permissions · Journalisation des actions (audit trail) · Sauvegardes automatisees · Authentification securisee · Separation des droits
-
-**Digitalisation**
-Transformation des processus papier en workflows numeriques. Automatisation pour limiter les erreurs, accelerer les validations, ameliorer la tracabilite et reduire les doubles saisies.
-
-**Reporting & tableaux de bord**
-Indicateurs pour la Direction Generale, RH, Informatique, Logistique et Managers : presence, productivite, etat des stocks, incidents IT, disponibilite des equipements, consommation, performance des equipes.
-
-**Technologies** : Laravel · PHP · MySQL/MariaDB · API REST · Docker · Git
+Actuellement chez **Dessineo**, en charge de l'infrastructure, de la cybersécurité **ET** du pilotage/développement de l'ERP interne. En cours : ServiceNow ITSM, ITIL 4, Azure AZ-900.
 
 ---
 
-### Experience
+## 🛠️ Stack technique
 
-**IT Manager & Logistique**
-*Dessineo — Antananarivo* | Aout 2025 - Aujourd'hui
+### 🏗️ Gouvernance & Management IT
+`ITSM` `ITIL 4` `Gestion de projets` `Management d'équipes` `Pilotage prestataires` `Conduite du changement` `KPI / Reporting` `Budget IT` `ServiceNow`
 
-Gouvernance SI : feuille de route, KPI, procedures d'exploitation.
-Infrastructure : serveurs Windows/Linux, Active Directory, virtualisation, sauvegardes, Microsoft 365, Google Workspace.
-Cybersecurite : BitLocker, LAPS, MFA, supervision Zabbix/Grafana/Prometheus/Wazuh.
-**ERP : pilotage fonctionnel et developpement de l'ERP interne multi-domaines (RH, GED, tickets IT, parc, stocks, logistique, signature electronique, planning) — analyse des besoins, conception, developpement, deploiement.**
-Encadrement des equipes techniques et coordination des prestataires.
+### 🖥️ Infrastructure & Systèmes
+`Windows Server 2016/2019/2022` `Linux (Debian, Ubuntu)` `Active Directory` `GPO` `DNS/DHCP` `Hyper-V` `Proxmox VE` `Docker` `Sauvegarde (Veeam, AWS S3)`
 
-**Datajet — Antananarivo** | Juin 2018 - Aout 2025
-*Consultant IT Support Automation Lead (2023-2025)*
+### 🔒 Sécurité
+`BitLocker` `LAPS` `MFA / 2FA` `Wazuh SIEM` `pfSense` `CIS Benchmarks` `Hardening Windows/Linux` `RBAC` `Audit trail`
 
-Encadrement d'une equipe IT, indicateurs de service (+40% de visibilite SLA via Grafana/Prometheus). Developpement de scripts PowerShell/Python (MTTR -35%). Migration Exchange vers Exchange Online/Teams/SharePoint. Standardisation ITIL. Taux de conformite SLA > 95%.
+### 📊 Supervision & Monitoring
+`Zabbix` `Grafana` `Prometheus` `Nagios` `GLPI` `OCS Inventory`
 
-*Team Lead Support Technique (2022-2023)*
-Cycle de vie des equipements, Exchange On-Premise, sauvegarde hybride Veeam + AWS S3 (-40% downtime, -30% couts). Migration SpiceWorks vers GLPI.
+### ☁️ Cloud & Collaboration
+`Microsoft 365` `Exchange Online` `Teams` `SharePoint` `OneDrive` `Azure` `Google Workspace`
 
-*Technicien Support & Maintenance (2018-2022)*
-Support N1/N2, OTRS, maintenance parc, supervision Nagios, inventaire OCS Inventory.
+### 💻 Développement & Automatisation
+`Laravel` `PHP` `MySQL / MariaDB` `PostgreSQL` `API REST` `PowerShell` `Python` `Bash` `SQL` `Git` `Ansible` `HTML / CSS` `JavaScript`
 
-**Anterieur**
-Point Cybercafe (gerant, 50+ utilisateurs). DHL International Madagascar (application PHP scan codes-barres pour la tracabilite logistique).
+### 📋 Outils & Méthodes
+`Jira` `Confluence` `EspoCRM` `ITIL 4` `PRA / PCA` `Méthode Agile`
 
 ---
 
-### Projets GitHub
+## 🚀 Projet phare : ERP interne multi-domaines
 
-[**security-hardening-toolkit**](https://github.com/razafimandimby-IT/security-hardening-toolkit) — Hardening et audit de securite Windows/Linux (CIS benchmarks, reporting HTML, remediation).
+De la conception au déploiement : pilotage fonctionnel et participation au développement d'un ERP interne couvrant **8 modules métier** — une solution intégrée qui remplace plusieurs outils séparés par une plateforme unique, sécurisée et évolutive.
 
-[**ansible-infra-automation**](https://github.com/razafimandimby-IT/ansible-infra-automation) — Infrastructure as Code (Ansible) pour deploiement AD, serveurs, monitoring, securisation.
+| Module | Fonctionnalités |
+|--------|----------------|
+| 👥 **Ressources Humaines** | Employés, contrats, congés, absences, organigramme, pointage biométrique, heures (supplémentaires, retards), export paie |
+| 📄 **Gestion documentaire** | Archivage numérique, GED, versionning, circuit de validation, recherche plein texte |
+| 🎫 **Tickets IT** | Helpdesk, incidents, demandes, suivi SLA, base de connaissances, escalation, reporting |
+| 💻 **Parc informatique** | Inventaire complet, licences, garanties, affectation, historique des mouvements |
+| 📦 **Stocks** | Entrées/sorties, inventaire permanent, mouvements, alertes de stock, valorisation |
+| 🚚 **Logistique & Achats** | Achats, fournisseurs, réceptions, consommables, commandes, devis |
+| ✍️ **Signature électronique** | Validation électronique, circuit d'approbation multi-niveaux, historique, traçabilité |
+| 📈 **Planning & Reporting** | Équipes, affectation, disponibilités, tableaux de bord direction/RH/IT/logistique |
 
-[**infra-monitoring**](https://github.com/razafimandimby-IT/infra-monitoring) — Stack Zabbix, Prometheus, Grafana, Wazuh en Docker Compose.
+**🔐 Sécurité intégrée :** RBAC · Audit trail · Sauvegardes automatisées · Authentification sécurisée · Séparation des droits
 
-[**powershell-toolkit**](https://github.com/razafimandimby-IT/powershell-toolkit) — Scripts PowerShell : inventaire AD, reporting, standardisation Windows.
-
-[**dotfiles-linux**](https://github.com/razafimandimby-IT/dotfiles-linux) — Configuration Linux, alias Bash, scripts d'administration.
+**⚙️ Stack :** Laravel · PHP · MySQL/MariaDB · API REST · Docker · Git
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=razafimandimby-IT&show_icons=true&theme=graywhite&hide_title=true)](https://github.com/razafimandimby-IT)
+## 💼 Expérience
+
+### 🏢 Responsable Informatique & Logistique
+**Dessineo — Antananarivo** | *Août 2025 - Aujourd'hui*
+
+- Gouvernance SI : feuille de route stratégique, KPI, procédures d'exploitation, reporting direction
+- Infrastructure : Windows/Linux, Active Directory, virtualisation (Hyper-V, Proxmox), sauvegardes
+- Cybersécurité : BitLocker, LAPS, MFA, supervision Zabbix/Grafana/Prometheus/Wazuh
+- Cloud : Microsoft 365 (Exchange Online, Teams, SharePoint, OneDrive), Google Workspace
+- **ERP : pilotage fonctionnel et développement de l'ERP interne multi-domaines (8 modules)**
+- Management d'équipes et coordination des prestataires
+
+### 🏢 Datajet — Antananarivo
+**Consultant IT Support Automation Lead** | *Janv. 2023 - Août 2025*
+- Encadrement d'une équipe IT (+40% visibilité SLA via Grafana/Prometheus)
+- Développement de scripts PowerShell/Python : **MTTR -35%**
+- Migration Exchange On-Premise → Exchange Online / Teams / SharePoint
+- Standardisation ITIL : taux de conformité SLA **> 95%**
+
+**Team Lead Support Technique** | *Juil. 2022 - Janv. 2023*
+- Cycle de vie des équipements, Exchange On-Premise
+- Sauvegarde hybride Veeam + AWS S3 : **-40% downtime, -30% coûts**
+- Migration SpiceWorks → GLPI
+
+**Technicien Support & Maintenance** | *Juin 2018 - Juil. 2022*
+- Support N1/N2 (OTRS, GLPI), maintenance parc 300+ postes
+- Supervision Nagios, inventaire OCS Inventory
+
+### 📜 Expériences antérieures
+- **Gérant — Point Cybercafé** (50+ utilisateurs) : gestion, maintenance, support client
+- **Consultant — DHL International Madagascar** : application PHP scan codes-barres traçabilité logistique
+- **Stagiaire — Ministère des Finances** : maintenance parc, assistance utilisateurs
 
 ---
 
-<sub>Profile visits tracked above</sub>
+## 📚 Formation & Certifications
+
+| Type | Détail |
+|------|--------|
+| 🎓 **Master** | Génie Logiciel & Systèmes d'Information — Université d'Antananarivo (2016-2018) |
+| 📖 **Licence** | Informatique de Gestion — ISPM (2012) |
+| 🏅 **En cours** | ServiceNow ITSM & Flow Designer, ITIL 4 Foundation, Azure AZ-900 |
+| 🔄 **Formation continue** | Docker, Python, Cybersécurité open source, Zammad |
+
+---
+
+## 🌍 Langues
+
+- **Français** — Courant
+- **Anglais** — Professionnel / Technique
+- **Malgache** — Langue maternelle
+
+---
+
+## 📂 Projets GitHub
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| 🔒 [security-hardening-toolkit](https://github.com/razafimandimby-IT/security-hardening-toolkit) | Hardening & audit Windows/Linux (CIS benchmarks) | PowerShell, Bash |
+| ⚙️ [ansible-infra-automation](https://github.com/razafimandimby-IT/ansible-infra-automation) | Infrastructure as Code Ansible (AD, monitoring, sécurité) | Ansible, YAML |
+| 📊 [infra-monitoring](https://github.com/razafimandimby-IT/infra-monitoring) | Stack supervision Zabbix/Grafana/Prometheus/Wazuh | Docker Compose |
+| 🖥️ [powershell-toolkit](https://github.com/razafimandimby-IT/powershell-toolkit) | Scripts PowerShell AD, inventory, reporting | PowerShell |
+| 🐧 [dotfiles-linux](https://github.com/razafimandimby-IT/dotfiles-linux) | Config Linux, Bash, administration système | Shell |
+
+---
+
+<div align="center">
+
+**📬 Contact :** [l.denis.razafimandimby@gmail.com](mailto:l.denis.razafimandimby@gmail.com) · [LinkedIn](https://www.linkedin.com/in/louis-denis-razafimandimby-488610227/) · [CV en ligne](https://razafimandimby-it.github.io/cv/)
+
+[![Profile views](https://komarev.com/ghpvc/?username=razafimandimby-IT&color=2b9348&style=flat-square&label=Visites)](https://github.com/razafimandimby-IT)
+
+</div>
