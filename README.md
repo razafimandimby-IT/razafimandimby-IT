@@ -1,6 +1,6 @@
 <div align="center">
 
-# Denis RAZAFIMANDIMBY
+# 👋 Louis Denis RAZAFIMANDIMBY
 
 **`IT Manager | Infrastructure & Cybersecurity | ITSM/ITIL | Automation & ERP`**
 
@@ -112,10 +112,9 @@ De la conception au déploiement : pilotage fonctionnel et participation au dév
 
 ## 📚 Formation & Certifications
 
-| Type | Détail |
-|------|--------|
-
-| 📖 **📖 Formation** | Informatique de Gestion, Génie Logiciel et Intelligence Artificielle — ISPM (2012)|
+| | |
+|---|---|
+| 📖 📖 **Formation** | Informatique de Gestion, Génie Logiciel et Intelligence Artificielle — ISPM (2012) |
 | 🏅 **En cours** | ServiceNow ITSM & Flow Designer, ITIL 4 Foundation, Azure AZ-900 |
 | 🔄 **Formation continue** | Docker, Python, Cybersécurité open source, Zammad |
 
