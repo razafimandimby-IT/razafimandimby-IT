@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Louis Denis RAZAFIMANDIMBY
+# Denis RAZAFIMANDIMBY
 
 **`IT Manager | Infrastructure & Cybersecurity | ITSM/ITIL | Automation & ERP`**
 
